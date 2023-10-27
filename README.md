@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Software Developer
 -------------------------
 
-I am a person who switch career path into Software Developer sector, I am interested in Front-end Developer by using React.js
+As a novice in the field of software development, I am particularly interested in front-end development utilizing React.js.
+I have a lot to learn. I'm going to give it my best.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [here](http://incomparable-salmiakki-1879eb.netlify.app/)
