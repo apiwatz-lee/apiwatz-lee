@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Software Developer
 -------------------------
 
-As a junior in the field of software development I am particularly interested in front-end development utilizing React.js. I have a lot to ... fix the bug !!!
+- As a junior in the field of software development 
+- I am particularly interested in front-end development utilizing React.js. 
+- I have a lot ... bugs to fix !!!
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [here](http://incomparable-salmiakki-1879eb.netlify.app/)
