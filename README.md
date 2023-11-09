@@ -6,7 +6,7 @@ Junior Software Developer
 
 - As a junior in the field of software development 
 - I am particularly interested in front-end development utilizing React.js. 
-- I have a lot ... bugs to fix !!! 🤣
+- I love coding because Mr. Bug is my pal 🤣
 
 <a href="https://www.github.com/apiwatz-lee" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/apiwatz-lee?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
