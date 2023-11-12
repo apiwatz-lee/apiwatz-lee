@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
 </div>
-<h1 align="center">Hi 👋 I'm Apiwatz Lee</h1>
+<h1 align="center"> Hi 🦁 ..  I'm Apiwatz Lee</h1>
 <h3 align="center">While not asleep, I can still dream — especially when I'm coding.</h3>
 
 
