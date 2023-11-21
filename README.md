@@ -8,9 +8,10 @@
 Junior Software Developer
 -------------------------
 
-- As a junior in the field of software development 
+- As a junior in the field of software development.
 - I am particularly interested in front-end development utilizing React.js. 
-- Next step is to learning typescript 
+- Currently delving into the intricacies of TypeScript to enhance my skills in building robust and type-safe applications.
+
 
 <a href="https://www.github.com/apiwatz-lee" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/apiwatz-lee?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
@@ -19,7 +20,7 @@ src="https://img.shields.io/github/followers/apiwatz-lee?logo=github&style=for-t
 
 
 <p align="center">
-  <a href="https://github.com/chaninlaw">
+  <a href="https://github.com/apiwatz-lee">
     <img src="https://skillicons.dev/icons?i=react,js,typescript,express,nodejs,next,postgres,mongodb,html,css,supabase,tailwind,materialui,figma,git,github&perline=8" />
   </a>
 </p>
