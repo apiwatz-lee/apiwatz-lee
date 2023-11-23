@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/apiwatz-lee?logo=github&style=for-t
 
 <p align="center">
   <a href="https://github.com/apiwatz-lee">
-    <img src="https://skillicons.dev/icons?i=react,js,typescript,express,nodejs,next,postgres,mongodb,html,css,supabase,tailwind,materialui,figma,git,github&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,vite,js,typescript,express,nodejs,postgres,mongodb,html,css,supabase,tailwind,materialui,figma,git,github&perline=8" />
   </a>
 </p>
 
