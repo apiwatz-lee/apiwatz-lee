@@ -5,7 +5,7 @@
 <h3 align="center">While not asleep, I can still dream — especially when I'm coding.</h3>
 
 
-Junior Software Developer
+Software Developer
 -------------------------
 
 - As a junior in the field of software development.
