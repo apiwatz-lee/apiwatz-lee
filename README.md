@@ -1,16 +1,17 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
 </div>
-<h1 align="center"> Hi 🦁 ..  I'm Apiwatz Lee</h1>
+<h1 align="center"> Hey 🦊,  I'm Apiwatz Lee </h1>
 <h3 align="center">While not asleep, I can still dream — especially when I'm coding.</h3>
 
 
 Software Developer
 -------------------------
 
-- As a junior in the field of software development.
 - I am particularly interested in front-end development utilizing React.js. 
-- Currently delving into the intricacies of TypeScript to enhance my skills in building robust and type-safe applications.
+- ฉurrently learning TypeScript and creating more projects.
+- I feel happy when my abilities can solve problems for the people around me.
+- Here is my web portfolio : https://apwlife.netlify.app
 
 
 <a href="https://www.github.com/apiwatz-lee" target="_blank" rel="noreferrer"><img
