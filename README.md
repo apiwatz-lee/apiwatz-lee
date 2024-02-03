@@ -9,7 +9,7 @@ Software Developer
 -------------------------
 
 - I am particularly interested in front-end development utilizing React.js. 
-- Currently learning TypeScript and creating more projects.
+- Currently learning NextJs with Typescript 
 - I feel happy when my abilities can solve problems for the people around me.
 - Here is my web portfolio : https://apwlife.netlify.app
 
