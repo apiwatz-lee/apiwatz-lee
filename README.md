@@ -8,9 +8,9 @@
 Software Developer
 -------------------------
 
-- I am particularly interested in front-end development utilizing React.js. 
-- Currently learning NextJs with Typescript 
-- I feel happy when my abilities can solve problems for the people around me.
+- I'm passionate about coding, programming, and problem-solving.
+- Currently, I'm working at Xsurface as a Full-Stack Developer, using Next.js, Express.js, and MongoDB.
+- I believe that lifelong learning is the key to success, and I'm always looking for opportunities to grow and improve.
 - Here is my web portfolio : https://apwlife.netlify.app
 
 
