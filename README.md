@@ -9,7 +9,7 @@ Software Developer
 -------------------------
 
 - I'm passionate about coding, programming, and problem-solving.
-- Currently, I'm working at The Thai Chamber of Commerce e as a Web Developer, using NuxtJs and Strapi.
+- Currently, I'm working at The Thai Chamber of Commerce as a Web Developer, using NuxtJs and Strapi.
 - I believe that lifelong learning is the key to success, and I'm always looking for opportunities to grow and improve.
 - Here is my web portfolio : https://apwlife.netlify.app
 
